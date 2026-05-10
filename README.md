@@ -140,7 +140,7 @@ const developer = {
   <a href="https://linkedin.com/in/nitesh-kumar-chaurasiya-621796251"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:niteshjnp2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/niteshjnp2020"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="niteshdevfolio.netlify.app/ "><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+    <a href="https://niteshdevfolio.netlify.app/ "><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
 ---
