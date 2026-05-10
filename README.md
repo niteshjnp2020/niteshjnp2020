@@ -1,6 +1,6 @@
 <!-- ===== ANIMATED HEADER BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=240&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20a%20Backend%20Engineer&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=.NET%20Core%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Event-Driven%20Architecture&descAlignY=58&descSize=16&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=240&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20a%20Software%20Engineer&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=.NET%20Core%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Event-Driven%20Architecture&descAlignY=58&descSize=16&animation=twinkling" width="100%" />
 </div>
 
 <!-- ===== TYPING ANIMATION ===== -->
