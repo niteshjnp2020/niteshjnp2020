@@ -68,7 +68,7 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,redis,kafka,rabbitmq,mongodb" />
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,nginx,vscode,visualstudio,postman" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx,vscode,visualstudio,postman" />
 
 </div>
 
